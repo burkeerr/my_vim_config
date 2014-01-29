@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mydotvim
 ========
 
@@ -86,3 +87,9 @@ Bundle installed
 `Bundle 'DrawIt'`
 
 `Bundle 'bash-support.vim'`
+=======
+my_vim_config
+=============
+
+My MacVim Config
+>>>>>>> f8aded4a68fc3c943682621918e394a5869a1de2
